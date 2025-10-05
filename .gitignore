@@ -1,0 +1,27 @@
+# ===== C =====
+*.o
+*.out
+*.exe
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+
+# ===== VS Code =====
+.vscode/
+*.code-workspace
+
+# ===== System files =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
+
+# ===== Build folders (optional) =====
+build/
+dist/
