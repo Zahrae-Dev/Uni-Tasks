@@ -25,7 +25,7 @@ int main(){
 /* 3. Utilisez le typecastingpour obtenir un résultat précis de la division.*/
     float precise = (float) x/y ;
     printf("le resultat precis du division de %d par %d est %.2f\n",x,y,precise);
-/*4. Utilisez la pré-incrémentationet la post-incrémentation pour modifier 
+/*4. Utilisez la pré-incrémentationet la po st-incrémentation pour modifier 
 les valeurs.*/
     int pre = ++x;
     printf("la valeur du premier nombre apres pre-incrementation est %d\n, et la variable incremente est %d\n",x,pre);
